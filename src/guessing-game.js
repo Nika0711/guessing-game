@@ -1,5 +1,6 @@
 class GuessingGame {
-    constructor(min, max) {
+    
+    constructor() {
     this.start;
     this.finish;
     }
